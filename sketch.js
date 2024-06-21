@@ -140,3 +140,4 @@ function preload(){
   ponto = loadSound("ponto.mp3");
   raquetada = loadSound("raquetada.mp3");
 }
+
